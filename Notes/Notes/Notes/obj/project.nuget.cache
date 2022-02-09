@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gaEobHhDdeeUyAbRwV05LotWY1Vl0Qycr4H+ceq89cfK6MUtUgQQFFgQWtkYI8tKN3Oj34Hkr9y86udrYvALlQ==",
+  "dgSpecHash": "uZVDg2i/6aZeakkNwvd7whBMWElkeLHLK9Qr9Um3ZghrOGz1CMMwEdKsKGIfzfzEWcCDbBfb5uusGWpsKwmClA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-Giowis\\Notes\\Notes\\Notes\\Notes.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\Notes\\Notes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
