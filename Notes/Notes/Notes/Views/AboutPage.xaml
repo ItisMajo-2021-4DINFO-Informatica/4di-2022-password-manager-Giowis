@@ -5,8 +5,8 @@
              Title="About">
     <!-- Layout children in two rows -->
     <Grid RowDefinitions="Auto,*">
-        <Image Source="xamarin_logo.png"
-               BackgroundColor="{OnPlatform iOS=LightSlateGray, Android=#2196F3}"
+        <Image Source="GitHub-Emblem.png"
+               BackgroundColor="{OnPlatform iOS=LightSlateGray, Android=#bf00ff}"
                VerticalOptions="Center"
                HeightRequest="64" />
         <!-- Layout children vertically -->
@@ -25,8 +25,8 @@
                     </FormattedString>
                 </Label.FormattedText>
             </Label>
-            <Label Text="This app is written in XAML and C# with the Xamarin Platform." />
-            <Button Text="Learn more"
+            <Label Text="Project made in C# by Tisi Gioele. Check the button below to see my GitHub profile" />
+            <Button Text="Github Profile"
                     Clicked="OnButtonClicked" />
         </StackLayout>
     </Grid>

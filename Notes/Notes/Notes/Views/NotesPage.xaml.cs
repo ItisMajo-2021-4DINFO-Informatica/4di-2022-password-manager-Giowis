@@ -32,11 +32,14 @@ namespace Notes.Views
                 });
             }
 
+
+
             // Set the data source for the CollectionView to a
             // sorted collection of notes.
             collectionView.ItemsSource = notes
                 .OrderBy(d => d.Date)
                 .ToList();
+
         }
 
         async void OnAddClicked(object sender, EventArgs e)

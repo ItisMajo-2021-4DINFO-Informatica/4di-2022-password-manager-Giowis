@@ -8,7 +8,7 @@
         <ShellContent Title="Notes"
                       Icon="icon_feed.png"
                       ContentTemplate="{DataTemplate views:NotesPage}" />
-        <ShellContent Title="About"
+        <ShellContent Title="Github"
                       Icon="icon_about.png"
                       ContentTemplate="{DataTemplate views:AboutPage}" />
     </TabBar>
